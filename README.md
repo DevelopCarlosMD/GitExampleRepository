@@ -1,4 +1,4 @@
 # GitExampleRepository
 Udemy example course repository to know how to use commands on terminal
 
-Redme.md file was just edited manually.
+Redme.md file was just edited manually. This file was modified locally
